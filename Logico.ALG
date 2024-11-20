@@ -16,8 +16,8 @@ Inicio
    Eq <- (L1 = L2) e (L2 = L3)
    Es <- (L1 <> L2) e (L2 <> L3 ) e (L1 <> L3)
    
-   Escreval ("Pode formar um TRIÂNGULO?", TRI)
-   Escreval ("O triângulo é EQUILATERO?", Eq)
-   Escreval ("O triângulo é ESCALENO?", Es)
+   Escreval ("Pode formar um TRIÃ‚NGULO?", TRI)
+   Escreval ("O triÃ¢ngulo Ã© EQUILATERO?", Eq)
+   Escreval ("O triÃ¢ngulo Ã© ESCALENO?", Es)
    
 Fimalgoritmo
